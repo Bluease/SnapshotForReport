@@ -1,0 +1,38 @@
+date: 07/06/2014
+
+working process:
+1) create block
+2) download github for windows
+3) Install github for windows
+4) test upload with backlog
+
+Challenges
+1) setup android environment
+2) getting formilar with mobile programming
+
+solution:
+1) a lot of youtube video tutorial
+
+
+Action plan :
+1) setup android development environment
+2) test with hello word
+3) product research with similar apps
+4) mockup user interface with justinmind
+5) research carme control feature - snapshot with camera
+6) code snapsot feature
+7) test snapsot feature
+8) research location pin with geometry coordinate
+9) code location pin feature
+10) test snapshot feature
+11) reseach text function
+12) code text function
+13) test text function
+14) research voice report function
+15) code voice function
+16) research video report function
+17) code video function
+18) test video function
+19) final testing of all functions
+20) register with google play store
+21) upload snapshotForReport app to google play store
